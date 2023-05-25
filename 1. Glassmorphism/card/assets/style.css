@@ -101,12 +101,12 @@ section{
 .card {
     border-radius: 20px;
     /* other styles */
-    background: rgba(39, 39, 39, 0.1);
+    background: #2727271a;
     backdrop-filter: blur(60px);
      /* fallback for old browsers */
     -webkit-backdrop-filter: blur(60px);
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    box-shadow: 0 0 80px rgba(0, 0, 0, 0.3);
+    border: 1px solid #ffffff33;
+    box-shadow: 0 0 80px #0000004d;
 }
 
 .circle-1{
