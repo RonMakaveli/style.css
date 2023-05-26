@@ -6,7 +6,9 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #080710;
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
 }
 .background{
     width: 430px;
